@@ -1,0 +1,12 @@
+C:\Users\skolpe\source\repos\Anagram Finder\Anagram Finder\bin\Debug\netcoreapp2.2\Anagram Finder.deps.json
+C:\Users\skolpe\source\repos\Anagram Finder\Anagram Finder\bin\Debug\netcoreapp2.2\Anagram Finder.runtimeconfig.json
+C:\Users\skolpe\source\repos\Anagram Finder\Anagram Finder\bin\Debug\netcoreapp2.2\Anagram Finder.runtimeconfig.dev.json
+C:\Users\skolpe\source\repos\Anagram Finder\Anagram Finder\bin\Debug\netcoreapp2.2\Anagram Finder.dll
+C:\Users\skolpe\source\repos\Anagram Finder\Anagram Finder\obj\Debug\netcoreapp2.2\Anagram Finder.csprojAssemblyReference.cache
+C:\Users\skolpe\source\repos\Anagram Finder\Anagram Finder\obj\Debug\netcoreapp2.2\Anagram Finder.csproj.CoreCompileInputs.cache
+C:\Users\skolpe\source\repos\Anagram Finder\Anagram Finder\obj\Debug\netcoreapp2.2\Anagram Finder.AssemblyInfoInputs.cache
+C:\Users\skolpe\source\repos\Anagram Finder\Anagram Finder\obj\Debug\netcoreapp2.2\Anagram Finder.AssemblyInfo.cs
+C:\Users\skolpe\source\repos\Anagram Finder\Anagram Finder\bin\Debug\netcoreapp2.2\Anagram Finder.pdb
+C:\Users\skolpe\source\repos\Anagram Finder\Anagram Finder\obj\Debug\netcoreapp2.2\Anagram Finder.dll
+C:\Users\skolpe\source\repos\Anagram Finder\Anagram Finder\obj\Debug\netcoreapp2.2\Anagram Finder.pdb
+C:\Users\skolpe\source\repos\Anagram Finder\Anagram Finder\bin\Debug\netcoreapp2.2\Data\Wordlist.txt
